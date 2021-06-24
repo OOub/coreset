@@ -1,3 +1,6 @@
+Coreset
+[![Build Status](https://travis-ci.com/OOub/coreset.svg?branch=main)](https://travis-ci.com/OOub/coreset)
+
 Python implementation of lightweight coresets to summarize data.
 
 ## Install
